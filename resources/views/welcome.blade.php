@@ -18,6 +18,10 @@
             body {
                 font-family: 'Nunito', sans-serif;
             }
+            #myHeader{
+            display: flex;
+  justify-content: center;
+            }
         </style>
     </head>
     <body class="antialiased">
